@@ -10,5 +10,9 @@ public class DemoTwo {
 	public void add (int a, int b) {
 		System.out.println(a+b);
 	}
+	public void subtract (int c, int d) {
+		System.out.println(c-d);
+	}
+
 
 }
