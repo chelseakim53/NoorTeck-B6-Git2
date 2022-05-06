@@ -6,5 +6,9 @@ public class DemoTwo {
 		
 		System.out.println("Git demo 2...");
 	}
+	
+	public void add (int a, int b) {
+		System.out.println(a+b);
+	}
 
 }
