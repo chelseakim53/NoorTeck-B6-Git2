@@ -14,5 +14,4 @@ public class DemoTwo {
 		System.out.println(c-d);
 	}
 
-
 }
